@@ -1,0 +1,9 @@
+<components>
+	<component name="project3" bean="project3"
+		title="project3 Component" icon="/icon/component.gif">
+		<short-description>project3 component</short-description>
+		<long-description>project3 component long description
+		</long-description>
+	</component>
+</components>
+

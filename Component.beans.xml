@@ -1,0 +1,5 @@
+<beans package-name="project3">
+	<bean id="project3" name="project3" scope="singleton"
+		type="org.tinygroup.flow.ComponentInterface" class="demo345.ComponentImpl">
+	</bean>
+</beans>
